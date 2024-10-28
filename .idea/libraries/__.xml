@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Библиотеки и фраймворки">
+    <CLASSES>
+      <root url="jar://D:/программы для Светы/Библиотеки и фраймворки/assertj-core-3.23.1.jar!/" />
+      <root url="file://D:/программы для Светы/Библиотеки и фраймворки" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/программы для Светы/Библиотеки и фраймворки" recursive="false" />
+  </library>
+</component>

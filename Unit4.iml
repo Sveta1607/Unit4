@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Tests" isTestSource="true" />
+    </content>
+    <content url="jar://D:/программы для Светы/Библиотеки и фраймворки/byte-buddy-1.15.4.jar!/" />
+    <content url="jar://D:/программы для Светы/Библиотеки и фраймворки/byte-buddy-agent-1.15.7.jar!/" />
+    <content url="jar://D:/программы для Светы/Библиотеки и фраймворки/junit-jupiter-api-5.9.1.jar!/" />
+    <content url="jar://D:/программы для Светы/Библиотеки и фраймворки/junit-platform-commons-1.9.1.jar!/" />
+    <content url="jar://D:/программы для Светы/Библиотеки и фраймворки/mockito-core-5.14.2.jar!/" />
+    <content url="jar://D:/программы для Светы/Библиотеки и фраймворки/mockito-junit-jupiter-5.14.2.jar!/" />
+    <content url="jar://D:/программы для Светы/Библиотеки и фраймворки/objenesis-3.4.jar!/" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Библиотеки и фраймворки" level="project" />
+  </component>
+</module>
